@@ -1,8 +1,8 @@
 <img src="./CoverBanner.gif" width="1000" autoplay="true" />
-<h1 align="center">Hi 👋, I'm Yash Walke.</h1>
+<h1 align="center">Hi 👋, I'm Vishal Pagere</h1>
 <h3 align="center">Currently A passionate Software Developer from India..</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=435&lines=Java+Fullstack+Developer;SpringBoot+%7C+React+%7C+Java;Fill+Free+to+Connect;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=435&lines=Pyhton+Developer;DevOps+%7C+AWS+%7C+Java;Fill+Free+to+Connect;" alt="Typing SVG" />
 </p>
 
 <hr>
