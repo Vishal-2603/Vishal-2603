@@ -1,8 +1,8 @@
 <img src="./CoverBanner.gif" width="1000" autoplay="true" />
 <h1 align="center">Hi 👋, I'm Vishal Pagere</h1>
-<h3 align="center">Currently A passionate Software Developer from India..</h3>
+<h3 align="center">Currently A passionate Data Scientist from India..</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=435&lines=Pyhton+Developer;DevOps+%7C+AWS+%7C+Java;Fill+Free+to+Connect;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+AI%2C+ML%2C+NLP%2C+Deep+Learning;Power+BI+%7C+GenAI+Explorer;Feel+Free+to+Connect!" alt="Typing SVG" />
 </p>
 
 <hr>
@@ -10,35 +10,35 @@
   
  📍 Current Location : **Hyderabad, Telangana, India**
 
- 🔭 I’m currently working on : **SpringBoot & Reactjs**
+ 🔭 I’m currently working on : **GenAI**
 
- 🌱 I’m currently learning : **Java Fullstack Development**
+ 🌱 I’m currently learning : **Data Science And GenAI**
 
  📝 Education Qualifications : **B.Sc[Computer Science]**
 
- 📫 How to reach me : **yashwalke6503@gmail.com**
+ 📫 How to reach me : **vishalpagere2605@gmail.com**
 
- ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
+ ⚡ Fun fact : **Enjoy and Debug every Error in your Model... it's just your data trying to talk to you.**
   
- 🌐 Visit my Portfolio : **https://portfolio-yashwalke.vercel.app**
+ 
 </div>
 <hr>
 
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/yash walke" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/vishalpagere" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="yash walke" height="40" width="40" /></a> &nbsp;
-    <a href="https://fb.com/yash walke" target="blank"><img align="center"
+            alt="vishal pagere" height="40" width="40" /></a> &nbsp;
+    <a href="https://fb.com/vishal pagere" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="yash walke" height="40" width="40" /></a> &nbsp;
-    <a href="https://instagram.com/_yash.dev_" target="blank"><img align="center"
+            alt="vishal pagere" height="40" width="40" /></a> &nbsp;
+    <a href="https://instagram.com/vishal_.pagere" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="yash.csb" height="40" width="40" /></a> &nbsp;
-    <a href="https://wa.link/ud3opd" target="blank"><img align="center"
+            alt="vishal pagere" height="40" width="40" /></a> &nbsp;
+    <a href="https://wa.link/1gvaua" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-            alt="yash.csb" height="40" width="40" /></a>
+            alt="vishal pagere" height="40" width="40" /></a>
     
 </p>
 <hr>
@@ -56,23 +56,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
             alt="css3" width="50" height="50" /> &nbsp;
       <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
             width="50" height="50" /> &nbsp;
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="50" height="50" /> &nbsp;
-      <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="50" height="50" /> &nbsp;
-      <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-            alt="spring" width="50" height="50" /> &nbsp;
-      <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-            alt="tailwind" width="50" height="50" /> &nbsp;
-      <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-            alt="bootstrap" width="50" height="50" /> &nbsp;
       <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="50" height="50" /> &nbsp;
@@ -81,6 +66,9 @@
             alt="mysql" width="50" height="50" /> &nbsp;
       <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+            alt="git" width="50" height="50" /> &nbsp;
+      <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
             alt="git" width="50" height="50" /> &nbsp;
 </p>
 
